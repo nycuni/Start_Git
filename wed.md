@@ -1,2 +1,2 @@
-#Wednesday  --> First level heading
-##Wednsday morning  --> Second level heading
+# Wednesday  --> First level heading (need a space after the pound sign)
+## Wednsday morning  --> Second level heading
